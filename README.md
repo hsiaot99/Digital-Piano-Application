@@ -12,3 +12,5 @@ It allows users to play different musical notes by clicking on buttons correspon
 - Each button represents a piano key and plays a specific note when clicked.
 - White keys are represented by buttons with white backgrounds, and black keys with buttons having black backgrounds.
 - Sound files for each note are stored in the `sounds/` directory and are played using the `Audio` element in JavaScript.
+
+Ref. https://www.udemy.com/course/javascript-20-projects-in-20-days-html-css-javascript/learn/lecture/40895634#overview
